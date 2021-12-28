@@ -1,6 +1,6 @@
 # wrkspacer-react-zoom-pan-pinch
 
-Forked from MIT © [prc5 react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch) and fixed
+Forked from [prc5 react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch) and fixed it as interim measures
 
 ## Install
 
