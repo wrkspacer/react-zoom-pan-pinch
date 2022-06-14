@@ -20,6 +20,7 @@ export function handlePanningStart(
 ): void {
   const { scale } = contextInstance.transformState;
 
+  contextInstance.lastMousePosition = null;
   handleCancelAnimation(contextInstance);
   handleCalculateBounds(contextInstance, scale);
   if ((event as TouchEvent).touches) {
